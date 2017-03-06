@@ -1,5 +1,4 @@
-# vue2.0简易记事本，新手基础
-
+# vue2.0简易记事本，新手基础(webpack模板)欢迎fork和star
 ``` bash
 # 全局安装 vue-cli
 $ npm install --global vue-cli
